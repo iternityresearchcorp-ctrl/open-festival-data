@@ -1,0 +1,1099 @@
+{
+ "version": "2026.10.04",
+ "licence": "CC BY 4.0",
+ "credit": "Festival dates: Life Kundali (lifekundali.com)",
+ "cities": [
+  {
+   "city": "Abbotsford",
+   "country": "Canada",
+   "file": "canada-abbotsford.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Adelaide",
+   "country": "Australia",
+   "file": "australia-adelaide.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Agra",
+   "country": "India",
+   "file": "india-agra.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Ahmedabad",
+   "country": "India",
+   "file": "india-ahmedabad.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Albany",
+   "country": "USA",
+   "file": "usa-albany.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Allahabad",
+   "country": "India",
+   "file": "india-allahabad.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Amritsar",
+   "country": "India",
+   "file": "india-amritsar.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "file": "netherlands-amsterdam.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Atlanta",
+   "country": "USA",
+   "file": "usa-atlanta.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Auckland",
+   "country": "New Zealand",
+   "file": "new-zealand-auckland.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Augusta",
+   "country": "USA",
+   "file": "usa-augusta.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Austin",
+   "country": "USA",
+   "file": "usa-austin.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Bangalore",
+   "country": "India",
+   "file": "india-bangalore.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Beau Bassin-Rose Hill",
+   "country": "Mauritius",
+   "file": "mauritius-beau-bassin-rose-hill.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Beijing",
+   "country": "China",
+   "file": "china-beijing.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Bhopal",
+   "country": "India",
+   "file": "india-bhopal.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Bhubaneswar",
+   "country": "India",
+   "file": "india-bhubaneswar.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Birmingham",
+   "country": "UK",
+   "file": "uk-birmingham.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Boston",
+   "country": "USA",
+   "file": "usa-boston.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Brampton",
+   "country": "Canada",
+   "file": "canada-brampton.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Brisbane",
+   "country": "Australia",
+   "file": "australia-brisbane.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Buffalo",
+   "country": "USA",
+   "file": "usa-buffalo.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Calgary",
+   "country": "Canada",
+   "file": "canada-calgary.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Canberra",
+   "country": "Australia",
+   "file": "australia-canberra.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Centre de Flacq",
+   "country": "Mauritius",
+   "file": "mauritius-centre-de-flacq.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Chandigarh",
+   "country": "India",
+   "file": "india-chandigarh.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Charlotte",
+   "country": "USA",
+   "file": "usa-charlotte.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Chattanooga",
+   "country": "USA",
+   "file": "usa-chattanooga.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Chennai",
+   "country": "India",
+   "file": "india-chennai.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Chicago",
+   "country": "USA",
+   "file": "usa-chicago.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Cincinnati",
+   "country": "USA",
+   "file": "usa-cincinnati.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Cleveland",
+   "country": "USA",
+   "file": "usa-cleveland.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Coimbatore",
+   "country": "India",
+   "file": "india-coimbatore.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Colombo",
+   "country": "Sri Lanka",
+   "file": "sri-lanka-colombo.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Columbus",
+   "country": "USA",
+   "file": "usa-columbus.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Curepipe",
+   "country": "Mauritius",
+   "file": "mauritius-curepipe.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Cuttack",
+   "country": "India",
+   "file": "india-cuttack.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Dallas",
+   "country": "USA",
+   "file": "usa-dallas.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Dayton",
+   "country": "USA",
+   "file": "usa-dayton.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Dehradun",
+   "country": "India",
+   "file": "india-dehradun.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Delhi",
+   "country": "India",
+   "file": "india-delhi.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Denver",
+   "country": "USA",
+   "file": "usa-denver.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Des Moines",
+   "country": "USA",
+   "file": "usa-des-moines.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Detroit",
+   "country": "USA",
+   "file": "usa-detroit.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Dhaka",
+   "country": "Bangladesh",
+   "file": "bangladesh-dhaka.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Dubai",
+   "country": "UAE",
+   "file": "uae-dubai.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Dublin",
+   "country": "Ireland",
+   "file": "ireland-dublin.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Edison",
+   "country": "USA",
+   "file": "usa-edison.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Edmonton",
+   "country": "Canada",
+   "file": "canada-edmonton.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Erode",
+   "country": "India",
+   "file": "india-erode.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Fort Wayne",
+   "country": "USA",
+   "file": "usa-fort-wayne.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Frankfurt",
+   "country": "Germany",
+   "file": "germany-frankfurt.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Fremont",
+   "country": "USA",
+   "file": "usa-fremont.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Fresno",
+   "country": "USA",
+   "file": "usa-fresno.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Goodlands",
+   "country": "Mauritius",
+   "file": "mauritius-goodlands.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Gorakhpur",
+   "country": "India",
+   "file": "india-gorakhpur.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Green Bay",
+   "country": "USA",
+   "file": "usa-green-bay.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Guwahati",
+   "country": "India",
+   "file": "india-guwahati.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Hamilton",
+   "country": "Canada",
+   "file": "canada-hamilton.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Houston",
+   "country": "USA",
+   "file": "usa-houston.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Hyderabad",
+   "country": "India",
+   "file": "india-hyderabad.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Indianapolis",
+   "country": "USA",
+   "file": "usa-indianapolis.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Indore",
+   "country": "India",
+   "file": "india-indore.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Jaipur",
+   "country": "India",
+   "file": "india-jaipur.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Jammu",
+   "country": "India",
+   "file": "india-jammu.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Kamarpukur",
+   "country": "India",
+   "file": "india-kamarpukur.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Kanpur",
+   "country": "India",
+   "file": "india-kanpur.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Kansas City",
+   "country": "USA",
+   "file": "usa-kansas-city.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Karachi",
+   "country": "Pakistan",
+   "file": "pakistan-karachi.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Kathmandu",
+   "country": "Nepal",
+   "file": "nepal-kathmandu.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Kitchener",
+   "country": "Canada",
+   "file": "canada-kitchener.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Knoxville",
+   "country": "USA",
+   "file": "usa-knoxville.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Kochi",
+   "country": "India",
+   "file": "india-kochi.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Kolkata",
+   "country": "India",
+   "file": "india-kolkata.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Lahore",
+   "country": "Pakistan",
+   "file": "pakistan-lahore.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Leeds",
+   "country": "UK",
+   "file": "uk-leeds.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Leicester",
+   "country": "UK",
+   "file": "uk-leicester.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Little Rock",
+   "country": "USA",
+   "file": "usa-little-rock.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "London",
+   "country": "UK",
+   "file": "uk-london.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Los Angeles",
+   "country": "USA",
+   "file": "usa-los-angeles.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Lucknow",
+   "country": "India",
+   "file": "india-lucknow.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Ludhiana",
+   "country": "India",
+   "file": "india-ludhiana.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Madurai",
+   "country": "India",
+   "file": "india-madurai.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Mahebourg",
+   "country": "Mauritius",
+   "file": "mauritius-mahebourg.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Manchester",
+   "country": "UK",
+   "file": "uk-manchester.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Mangalore",
+   "country": "India",
+   "file": "india-mangalore.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Markham",
+   "country": "Canada",
+   "file": "canada-markham.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Melbourne",
+   "country": "Australia",
+   "file": "australia-melbourne.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Memphis",
+   "country": "USA",
+   "file": "usa-memphis.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Mhow",
+   "country": "India",
+   "file": "india-mhow.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Milwaukee",
+   "country": "USA",
+   "file": "usa-milwaukee.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Minneapolis",
+   "country": "USA",
+   "file": "usa-minneapolis.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Mississauga",
+   "country": "Canada",
+   "file": "canada-mississauga.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Montreal",
+   "country": "Canada",
+   "file": "canada-montreal.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Morinda",
+   "country": "India",
+   "file": "india-morinda.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Mumbai",
+   "country": "India",
+   "file": "india-mumbai.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Mysore",
+   "country": "India",
+   "file": "india-mysore.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Nadiad",
+   "country": "India",
+   "file": "india-nadiad.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Nagpur",
+   "country": "India",
+   "file": "india-nagpur.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Nashville",
+   "country": "USA",
+   "file": "usa-nashville.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "New York",
+   "country": "USA",
+   "file": "usa-new-york.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Oakville",
+   "country": "Canada",
+   "file": "canada-oakville.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Orlando",
+   "country": "USA",
+   "file": "usa-orlando.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Ottawa",
+   "country": "Canada",
+   "file": "canada-ottawa.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Paris",
+   "country": "France",
+   "file": "france-paris.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Patna",
+   "country": "India",
+   "file": "india-patna.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Perth",
+   "country": "Australia",
+   "file": "australia-perth.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Philadelphia",
+   "country": "USA",
+   "file": "usa-philadelphia.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Phoenix",
+   "country": "USA",
+   "file": "usa-phoenix.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Pittsburgh",
+   "country": "USA",
+   "file": "usa-pittsburgh.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Pondicherry",
+   "country": "India",
+   "file": "india-pondicherry.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Porbandar",
+   "country": "India",
+   "file": "india-porbandar.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Port Louis",
+   "country": "Mauritius",
+   "file": "mauritius-port-louis.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Portland",
+   "country": "USA",
+   "file": "usa-portland.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Pune",
+   "country": "India",
+   "file": "india-pune.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Quatre Bornes",
+   "country": "Mauritius",
+   "file": "mauritius-quatre-bornes.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Raipur",
+   "country": "India",
+   "file": "india-raipur.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Rajkot",
+   "country": "India",
+   "file": "india-rajkot.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Raleigh",
+   "country": "USA",
+   "file": "usa-raleigh.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Ranchi",
+   "country": "India",
+   "file": "india-ranchi.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Ratnagiri",
+   "country": "India",
+   "file": "india-ratnagiri.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Richmond",
+   "country": "USA",
+   "file": "usa-richmond.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Rochester",
+   "country": "USA",
+   "file": "usa-rochester.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Rome",
+   "country": "Italy",
+   "file": "italy-rome.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Sacramento",
+   "country": "USA",
+   "file": "usa-sacramento.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Salt Lake City",
+   "country": "USA",
+   "file": "usa-salt-lake-city.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "San Diego",
+   "country": "USA",
+   "file": "usa-san-diego.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "San Francisco",
+   "country": "USA",
+   "file": "usa-san-francisco.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "San Jose",
+   "country": "USA",
+   "file": "usa-san-jose.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Seattle",
+   "country": "USA",
+   "file": "usa-seattle.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Serampore",
+   "country": "India",
+   "file": "india-serampore.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Shimla",
+   "country": "India",
+   "file": "india-shimla.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Singapore",
+   "country": "Singapore",
+   "file": "singapore-singapore.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Srinagar",
+   "country": "India",
+   "file": "india-srinagar.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "St. Louis",
+   "country": "USA",
+   "file": "usa-st-louis.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Surat",
+   "country": "India",
+   "file": "india-surat.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Surrey",
+   "country": "Canada",
+   "file": "canada-surrey.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Sydney",
+   "country": "Australia",
+   "file": "australia-sydney.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Tampa",
+   "country": "USA",
+   "file": "usa-tampa.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "The Hague",
+   "country": "Netherlands",
+   "file": "netherlands-the-hague.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Thiruvananthapuram",
+   "country": "India",
+   "file": "india-thiruvananthapuram.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Tiruchirapalli",
+   "country": "India",
+   "file": "india-tiruchirapalli.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Tokyo",
+   "country": "Japan",
+   "file": "japan-tokyo.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Toronto",
+   "country": "Canada",
+   "file": "canada-toronto.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Triolet",
+   "country": "Mauritius",
+   "file": "mauritius-triolet.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Vacoas-Phoenix",
+   "country": "Mauritius",
+   "file": "mauritius-vacoas-phoenix.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Vadnagar",
+   "country": "India",
+   "file": "india-vadnagar.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Vadodara",
+   "country": "India",
+   "file": "india-vadodara.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Vancouver",
+   "country": "Canada",
+   "file": "canada-vancouver.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Varanasi",
+   "country": "India",
+   "file": "india-varanasi.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Visakhapatnam",
+   "country": "India",
+   "file": "india-visakhapatnam.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Washington DC",
+   "country": "USA",
+   "file": "usa-washington-dc.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Wichita",
+   "country": "USA",
+   "file": "usa-wichita.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Winnipeg",
+   "country": "Canada",
+   "file": "canada-winnipeg.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Wolverhampton",
+   "country": "UK",
+   "file": "uk-wolverhampton.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  },
+  {
+   "city": "Yuba City",
+   "country": "USA",
+   "file": "usa-yuba-city.json",
+   "festivals": 89,
+   "gurughar_days": 60
+  }
+ ]
+}

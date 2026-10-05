@@ -1,0 +1,2332 @@
+{
+ "city": "Gorakhpur",
+ "country": "India",
+ "lat": 26.7606,
+ "lon": 83.3732,
+ "version": "2026.10.04",
+ "licence": "CC BY 4.0",
+ "credit": "Festival dates: Life Kundali (lifekundali.com)",
+ "source": "https://lifekundali.com/festivals/",
+ "festivals": [
+  {
+   "id": "mahalaya-amavasya-2026",
+   "slug": "mahalaya-amavasya",
+   "date": "2026-10-10",
+   "date_india": "2026-10-10",
+   "tradition": "hindu",
+   "en": "Mahalaya · Sarva Pitru Amavasya",
+   "hi": "सर्व पितृ अमावस्या",
+   "pa": "",
+   "rule": "aparahna",
+   "sunrise": "5:54 AM, Oct 10",
+   "tithi": {
+    "from_h": "9:36 PM",
+    "to_h": "9:20 PM, Oct 10",
+    "minutes": 1424,
+    "from_date": "2026-10-09",
+    "to_date": "2026-10-10"
+   },
+   "muhurat": [
+    {
+     "from_h": "12:53 PM",
+     "to_h": "3:12 PM",
+     "minutes": 140,
+     "from_date": "2026-10-10",
+     "to_date": "2026-10-10"
+    }
+   ]
+  },
+  {
+   "id": "navratri-2026",
+   "slug": "navratri",
+   "date": "2026-10-11",
+   "date_india": "2026-10-11",
+   "tradition": "hindu",
+   "en": "Sharad Navratri",
+   "hi": "शारदीय नवरात्रि",
+   "pa": "",
+   "rule": "ghatasthapana",
+   "sunrise": "5:54 AM, Oct 11",
+   "tithi": {
+    "from_h": "9:20 PM",
+    "to_h": "9:31 PM, Oct 11",
+    "minutes": 1451,
+    "from_date": "2026-10-10",
+    "to_date": "2026-10-11"
+   },
+   "muhurat": [
+    {
+     "from_h": "5:54 AM",
+     "to_h": "9:46 AM",
+     "minutes": 232,
+     "from_date": "2026-10-11",
+     "to_date": "2026-10-11"
+    }
+   ]
+  },
+  {
+   "id": "durga-puja-2026",
+   "slug": "durga-puja",
+   "date": "2026-10-16",
+   "date_india": "2026-10-16",
+   "tradition": "hindu",
+   "en": "Durga Puja · Maha Shashthi",
+   "hi": "दुर्गा पूजा · महाषष्ठी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:57 AM, Oct 16",
+   "tithi": {
+    "from_h": "3:25 AM",
+    "to_h": "5:54 AM, Oct 17",
+    "minutes": 1589,
+    "from_date": "2026-10-16",
+    "to_date": "2026-10-17"
+   }
+  },
+  {
+   "id": "durga-ashtami-2026",
+   "slug": "durga-ashtami",
+   "date": "2026-10-19",
+   "date_india": "2026-10-19",
+   "tradition": "hindu",
+   "en": "Durga Ashtami",
+   "hi": "दुर्गा अष्टमी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:59 AM, Oct 19",
+   "tithi": {
+    "from_h": "8:28 AM",
+    "to_h": "10:52 AM, Oct 19",
+    "minutes": 1584,
+    "from_date": "2026-10-18",
+    "to_date": "2026-10-19"
+   }
+  },
+  {
+   "id": "dussehra-2026",
+   "slug": "dussehra",
+   "date": "2026-10-20",
+   "date_india": "2026-10-20",
+   "tradition": "hindu",
+   "en": "Dussehra · Vijayadashami",
+   "hi": "दशहरा · विजयादशमी",
+   "pa": "",
+   "rule": "aparahna",
+   "sunrise": "5:59 AM, Oct 20",
+   "tithi": {
+    "from_h": "12:50 PM",
+    "to_h": "2:12 PM, Oct 21",
+    "minutes": 1521,
+    "from_date": "2026-10-20",
+    "to_date": "2026-10-21"
+   },
+   "muhurat": [
+    {
+     "from_h": "12:50 PM",
+     "to_h": "3:06 PM",
+     "minutes": 135,
+     "from_date": "2026-10-20",
+     "to_date": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "id": "maha-navami-2026",
+   "slug": "maha-navami",
+   "date": "2026-10-20",
+   "date_india": "2026-10-20",
+   "tradition": "hindu",
+   "en": "Maha Navami",
+   "hi": "महानवमी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:59 AM, Oct 20",
+   "tithi": {
+    "from_h": "10:52 AM",
+    "to_h": "12:50 PM, Oct 20",
+    "minutes": 1559,
+    "from_date": "2026-10-19",
+    "to_date": "2026-10-20"
+   }
+  },
+  {
+   "id": "sharad-purnima-2026",
+   "slug": "sharad-purnima",
+   "date": "2026-10-25",
+   "date_india": "2026-10-25",
+   "tradition": "hindu",
+   "en": "Sharad Purnima",
+   "hi": "शरद पूर्णिमा",
+   "pa": "",
+   "rule": "pradosh",
+   "sunrise": "6:02 AM, Oct 25",
+   "tithi": {
+    "from_h": "11:56 AM",
+    "to_h": "9:41 AM, Oct 26",
+    "minutes": 1305,
+    "from_date": "2026-10-25",
+    "to_date": "2026-10-26"
+   },
+   "muhurat": [
+    {
+     "from_h": "5:18 PM",
+     "to_h": "7:42 PM",
+     "minutes": 144,
+     "from_date": "2026-10-25",
+     "to_date": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "id": "karva-chauth-2026",
+   "slug": "karva-chauth",
+   "date": "2026-10-29",
+   "date_india": "2026-10-29",
+   "tradition": "hindu",
+   "en": "Karva Chauth",
+   "hi": "करवा चौथ",
+   "pa": "",
+   "rule": "karva",
+   "moonrise": "7:53 PM"
+  },
+  {
+   "id": "ahoi-ashtami-2026",
+   "slug": "ahoi-ashtami",
+   "date": "2026-11-01",
+   "date_india": "2026-11-01",
+   "tradition": "hindu",
+   "en": "Ahoi Ashtami",
+   "hi": "अहोई अष्टमी",
+   "pa": "",
+   "rule": "pradosh",
+   "sunrise": "6:06 AM, Nov 1",
+   "tithi": {
+    "from_h": "2:52 PM",
+    "to_h": "1:11 PM, Nov 2",
+    "minutes": 1339,
+    "from_date": "2026-11-01",
+    "to_date": "2026-11-02"
+   },
+   "muhurat": [
+    {
+     "from_h": "5:12 PM",
+     "to_h": "7:36 PM",
+     "minutes": 144,
+     "from_date": "2026-11-01",
+     "to_date": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "id": "dhanteras-2026",
+   "slug": "dhanteras",
+   "date": "2026-11-06",
+   "date_india": "2026-11-06",
+   "tradition": "hindu",
+   "en": "Dhanteras",
+   "hi": "धनतेरस",
+   "pa": "",
+   "rule": "lakshmi",
+   "muhurat": [
+    {
+     "from": "17:41",
+     "to": "19:33",
+     "from_h": "5:41 PM",
+     "to_h": "7:33 PM",
+     "minutes": 112
+    }
+   ],
+   "pradosh": {
+    "from": "17:09",
+    "to": "19:33",
+    "from_h": "5:09 PM",
+    "to_h": "7:33 PM",
+    "minutes": 144
+   },
+   "sunset": "5:09 PM"
+  },
+  {
+   "id": "bandi-chhor-divas-2026",
+   "slug": "bandi-chhor-divas",
+   "date": "2026-11-08",
+   "date_india": "2026-11-08",
+   "tradition": "sikh",
+   "en": "Bandi Chhor Divas",
+   "hi": "बंदी छोड़ दिवस",
+   "pa": "ਬੰਦੀ ਛੋੜ ਦਿਵਸ",
+   "rule": "same-as",
+   "muhurat": [
+    {
+     "from": "17:34",
+     "to": "19:30",
+     "from_h": "5:34 PM",
+     "to_h": "7:30 PM",
+     "minutes": 116
+    }
+   ],
+   "pradosh": {
+    "from": "17:08",
+    "to": "19:32",
+    "from_h": "5:08 PM",
+    "to_h": "7:32 PM",
+    "minutes": 144
+   },
+   "sunset": "5:08 PM"
+  },
+  {
+   "id": "diwali-2026",
+   "slug": "diwali",
+   "date": "2026-11-08",
+   "date_india": "2026-11-08",
+   "tradition": "hindu",
+   "en": "Diwali · Lakshmi Puja",
+   "hi": "दिवाली · लक्ष्मी पूजा",
+   "pa": "",
+   "rule": "lakshmi",
+   "muhurat": [
+    {
+     "from": "17:34",
+     "to": "19:30",
+     "from_h": "5:34 PM",
+     "to_h": "7:30 PM",
+     "minutes": 116
+    }
+   ],
+   "pradosh": {
+    "from": "17:08",
+    "to": "19:32",
+    "from_h": "5:08 PM",
+    "to_h": "7:32 PM",
+    "minutes": 144
+   },
+   "sunset": "5:08 PM"
+  },
+  {
+   "id": "kali-puja-2026",
+   "slug": "kali-puja",
+   "date": "2026-11-08",
+   "date_india": "2026-11-08",
+   "tradition": "hindu",
+   "en": "Kali Puja",
+   "hi": "काली पूजा",
+   "pa": "",
+   "rule": "nishita",
+   "sunrise": "6:11 AM, Nov 8",
+   "tithi": {
+    "from_h": "11:28 AM",
+    "to_h": "12:32 PM, Nov 9",
+    "minutes": 1504,
+    "from_date": "2026-11-08",
+    "to_date": "2026-11-09"
+   },
+   "muhurat": [
+    {
+     "from_h": "11:14 PM",
+     "to_h": "12:06 AM, Nov 9",
+     "minutes": 52,
+     "from_date": "2026-11-08",
+     "to_date": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "id": "mahavir-nirvan-2026",
+   "slug": "mahavir-nirvan",
+   "date": "2026-11-08",
+   "date_india": "2026-11-08",
+   "tradition": "jain",
+   "en": "Mahavir Nirvan Divas · Jain Diwali",
+   "hi": "महावीर निर्वाण दिवस",
+   "pa": "",
+   "rule": "same-as",
+   "muhurat": [
+    {
+     "from": "17:34",
+     "to": "19:30",
+     "from_h": "5:34 PM",
+     "to_h": "7:30 PM",
+     "minutes": 116
+    }
+   ],
+   "pradosh": {
+    "from": "17:08",
+    "to": "19:32",
+    "from_h": "5:08 PM",
+    "to_h": "7:32 PM",
+    "minutes": 144
+   },
+   "sunset": "5:08 PM"
+  },
+  {
+   "id": "narak-chaturdashi-2026",
+   "slug": "narak-chaturdashi",
+   "date": "2026-11-08",
+   "date_india": "2026-11-08",
+   "tradition": "hindu",
+   "en": "Narak Chaturdashi · Chhoti Diwali",
+   "hi": "नरक चतुर्दशी · छोटी दिवाली",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:11 AM, Nov 8",
+   "tithi": {
+    "from_h": "10:48 AM",
+    "to_h": "11:28 AM, Nov 8",
+    "minutes": 1480,
+    "from_date": "2026-11-07",
+    "to_date": "2026-11-08"
+   }
+  },
+  {
+   "id": "govardhan-puja-2026",
+   "slug": "govardhan-puja",
+   "date": "2026-11-10",
+   "date_india": "2026-11-10",
+   "tradition": "hindu",
+   "en": "Govardhan Puja · Annakut",
+   "hi": "गोवर्धन पूजा · अन्नकूट",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:13 AM, Nov 10",
+   "tithi": {
+    "from_h": "12:32 PM",
+    "to_h": "2:00 PM, Nov 10",
+    "minutes": 1529,
+    "from_date": "2026-11-09",
+    "to_date": "2026-11-10"
+   }
+  },
+  {
+   "id": "bhai-dooj-2026",
+   "slug": "bhai-dooj",
+   "date": "2026-11-11",
+   "date_india": "2026-11-11",
+   "tradition": "hindu",
+   "en": "Bhai Dooj",
+   "hi": "भाई दूज",
+   "pa": "",
+   "rule": "aparahna",
+   "sunrise": "6:13 AM, Nov 11",
+   "tithi": {
+    "from_h": "2:00 PM",
+    "to_h": "3:53 PM, Nov 11",
+    "minutes": 1553,
+    "from_date": "2026-11-10",
+    "to_date": "2026-11-11"
+   },
+   "muhurat": [
+    {
+     "from_h": "12:45 PM",
+     "to_h": "2:56 PM",
+     "minutes": 131,
+     "from_date": "2026-11-11",
+     "to_date": "2026-11-11"
+    }
+   ]
+  },
+  {
+   "id": "gyan-panchami-2026",
+   "slug": "gyan-panchami",
+   "date": "2026-11-14",
+   "date_india": "2026-11-14",
+   "tradition": "jain",
+   "en": "Gyan Panchami · Saubhagya Panchami",
+   "hi": "ज्ञान पंचमी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:16 AM, Nov 14",
+   "tithi": {
+    "from_h": "8:43 PM",
+    "to_h": "11:24 PM, Nov 14",
+    "minutes": 1601,
+    "from_date": "2026-11-13",
+    "to_date": "2026-11-14"
+   }
+  },
+  {
+   "id": "chhath-puja-2026",
+   "slug": "chhath-puja",
+   "date": "2026-11-15",
+   "date_india": "2026-11-15",
+   "tradition": "hindu",
+   "en": "Chhath Puja",
+   "hi": "छठ पूजा",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:16 AM, Nov 15",
+   "tithi": {
+    "from_h": "11:24 PM",
+    "to_h": "2:01 AM, Nov 16",
+    "minutes": 1597,
+    "from_date": "2026-11-14",
+    "to_date": "2026-11-16"
+   }
+  },
+  {
+   "id": "dev-uthani-ekadashi-2026",
+   "slug": "dev-uthani-ekadashi",
+   "date": "2026-11-21",
+   "date_india": "2026-11-20",
+   "tradition": "hindu",
+   "en": "Dev Uthani Ekadashi",
+   "hi": "देवउठनी एकादशी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:21 AM, Nov 21",
+   "tithi": {
+    "from_h": "7:16 AM",
+    "to_h": "6:31 AM, Nov 21",
+    "minutes": 1396,
+    "from_date": "2026-11-20",
+    "to_date": "2026-11-21"
+   }
+  },
+  {
+   "id": "guru-nanak-gurpurab-2026",
+   "slug": "guru-nanak-gurpurab",
+   "date": "2026-11-24",
+   "date_india": "2026-11-24",
+   "tradition": "sikh",
+   "en": "Guru Nanak Gurpurab · Prakash Purab",
+   "hi": "गुरु नानक जयंती · प्रकाश पर्व",
+   "pa": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ ਦਾ ਪ੍ਰਕਾਸ਼ ਪੁਰਬ",
+   "rule": "udaya",
+   "sunrise": "6:23 AM, Nov 24",
+   "tithi": {
+    "from_h": "11:42 PM",
+    "to_h": "8:23 PM, Nov 24",
+    "minutes": 1241,
+    "from_date": "2026-11-23",
+    "to_date": "2026-11-24"
+   }
+  },
+  {
+   "id": "kartik-purnima-2026",
+   "slug": "kartik-purnima",
+   "date": "2026-11-24",
+   "date_india": "2026-11-24",
+   "tradition": "hindu",
+   "en": "Kartik Purnima · Dev Deepawali",
+   "hi": "कार्तिक पूर्णिमा · देव दीपावली",
+   "pa": "",
+   "rule": "pradosh",
+   "sunrise": "6:23 AM, Nov 24",
+   "tithi": {
+    "from_h": "11:42 PM",
+    "to_h": "8:23 PM, Nov 24",
+    "minutes": 1241,
+    "from_date": "2026-11-23",
+    "to_date": "2026-11-24"
+   },
+   "muhurat": [
+    {
+     "from_h": "5:02 PM",
+     "to_h": "7:26 PM",
+     "minutes": 144,
+     "from_date": "2026-11-24",
+     "to_date": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "id": "guru-tegh-bahadur-shaheedi-2026",
+   "slug": "guru-tegh-bahadur-shaheedi",
+   "date": "2026-12-14",
+   "date_india": "2026-12-14",
+   "tradition": "sikh",
+   "en": "Guru Tegh Bahadur Shaheedi Divas",
+   "hi": "गुरु तेग बहादुर शहीदी दिवस",
+   "pa": "ਗੁਰੂ ਤੇਗ ਬਹਾਦਰ ਜੀ ਦਾ ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ",
+   "rule": "udaya",
+   "sunrise": "6:37 AM, Dec 14",
+   "tithi": {
+    "from_h": "4:48 PM",
+    "to_h": "7:16 PM, Dec 14",
+    "minutes": 1588,
+    "from_date": "2026-12-13",
+    "to_date": "2026-12-14"
+   }
+  },
+  {
+   "id": "vivah-panchami-2026",
+   "slug": "vivah-panchami",
+   "date": "2026-12-14",
+   "date_india": "2026-12-14",
+   "tradition": "hindu",
+   "en": "Vivah Panchami",
+   "hi": "विवाह पंचमी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:37 AM, Dec 14",
+   "tithi": {
+    "from_h": "4:48 PM",
+    "to_h": "7:16 PM, Dec 14",
+    "minutes": 1588,
+    "from_date": "2026-12-13",
+    "to_date": "2026-12-14"
+   }
+  },
+  {
+   "id": "gita-jayanti-2026",
+   "slug": "gita-jayanti",
+   "date": "2026-12-20",
+   "date_india": "2026-12-20",
+   "tradition": "hindu",
+   "en": "Gita Jayanti · Mokshada Ekadashi",
+   "hi": "गीता जयंती · मोक्षदा एकादशी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:41 AM, Dec 20",
+   "tithi": {
+    "from_h": "10:09 PM",
+    "to_h": "8:15 PM, Dec 20",
+    "minutes": 1325,
+    "from_date": "2026-12-19",
+    "to_date": "2026-12-20"
+   }
+  },
+  {
+   "id": "paush-dashami-2027",
+   "slug": "paush-dashami",
+   "date": "2027-01-02",
+   "date_india": "2027-01-02",
+   "tradition": "jain",
+   "en": "Paush Dashami · Parshvanath Janma Kalyanak",
+   "hi": "पौष दशमी · पार्श्वनाथ जन्म कल्याणक",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:46 AM, Jan 2",
+   "tithi": {
+    "from_h": "1:10 PM",
+    "to_h": "2:24 PM, Jan 2",
+    "minutes": 1514,
+    "from_date": "2027-01-01",
+    "to_date": "2027-01-02"
+   }
+  },
+  {
+   "id": "lohri-2027",
+   "slug": "lohri",
+   "date": "2027-01-14",
+   "date_india": "2027-01-14",
+   "tradition": "sikh",
+   "en": "Lohri",
+   "hi": "लोहड़ी",
+   "pa": "ਲੋਹੜੀ",
+   "rule": "lohri",
+   "note": "the eve of Maghi / Makar Sankranti"
+  },
+  {
+   "id": "guru-gobind-singh-prakash-2027",
+   "slug": "guru-gobind-singh-prakash",
+   "date": "2027-01-15",
+   "date_india": "2027-01-15",
+   "tradition": "sikh",
+   "en": "Guru Gobind Singh Prakash Purab",
+   "hi": "गुरु गोबिंद सिंह जयंती",
+   "pa": "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ ਦਾ ਪ੍ਰਕਾਸ਼ ਪੁਰਬ",
+   "rule": "udaya",
+   "sunrise": "6:47 AM, Jan 15",
+   "tithi": {
+    "from_h": "1:59 PM",
+    "to_h": "2:13 PM, Jan 15",
+    "minutes": 1455,
+    "from_date": "2027-01-14",
+    "to_date": "2027-01-15"
+   }
+  },
+  {
+   "id": "makar-sankranti-2027",
+   "slug": "makar-sankranti",
+   "date": "2027-01-15",
+   "date_india": "2027-01-15",
+   "tradition": "hindu",
+   "en": "Makar Sankranti · Maghi",
+   "hi": "मकर संक्रांति · माघी",
+   "pa": "ਮਾਘੀ",
+   "rule": "solar",
+   "sankranti": "9:10 PM, Jan 14",
+   "punya": {
+    "from_h": "6:47 AM",
+    "to_h": "1:11 PM",
+    "minutes": 384,
+    "from_date": "2027-01-15",
+    "to_date": "2027-01-15"
+   }
+  },
+  {
+   "id": "pongal-2027",
+   "slug": "pongal",
+   "date": "2027-01-15",
+   "date_india": "2027-01-15",
+   "tradition": "hindu",
+   "en": "Thai Pongal",
+   "hi": "पोंगल",
+   "pa": "",
+   "rule": "solar",
+   "sankranti": "9:10 PM, Jan 14",
+   "punya": {
+    "from_h": "6:47 AM",
+    "to_h": "1:11 PM",
+    "minutes": 384,
+    "from_date": "2027-01-15",
+    "to_date": "2027-01-15"
+   }
+  },
+  {
+   "id": "vasant-panchami-2027",
+   "slug": "vasant-panchami",
+   "date": "2027-02-11",
+   "date_india": "2027-02-11",
+   "tradition": "hindu",
+   "en": "Vasant Panchami",
+   "hi": "वसंत पंचमी",
+   "pa": "",
+   "rule": "purvahna",
+   "sunrise": "6:37 AM, Feb 11",
+   "tithi": {
+    "from_h": "3:05 AM",
+    "to_h": "3:18 AM, Feb 12",
+    "minutes": 1454,
+    "from_date": "2027-02-11",
+    "to_date": "2027-02-12"
+   },
+   "muhurat": [
+    {
+     "from_h": "6:37 AM",
+     "to_h": "11:04 AM",
+     "minutes": 267,
+     "from_date": "2027-02-11",
+     "to_date": "2027-02-11"
+    }
+   ]
+  },
+  {
+   "id": "ravidas-jayanti-2027",
+   "slug": "ravidas-jayanti",
+   "date": "2027-02-20",
+   "date_india": "2027-02-20",
+   "tradition": "sikh",
+   "en": "Guru Ravidas Jayanti",
+   "hi": "गुरु रविदास जयंती",
+   "pa": "ਗੁਰੂ ਰਵਿਦਾਸ ਜਯੰਤੀ",
+   "rule": "udaya",
+   "sunrise": "6:30 AM, Feb 20",
+   "tithi": {
+    "from_h": "8:00 AM",
+    "to_h": "4:53 AM, Feb 21",
+    "minutes": 1253,
+    "from_date": "2027-02-20",
+    "to_date": "2027-02-21"
+   }
+  },
+  {
+   "id": "maha-shivaratri-2027",
+   "slug": "maha-shivaratri",
+   "date": "2027-03-06",
+   "date_india": "2027-03-06",
+   "tradition": "hindu",
+   "en": "Maha Shivaratri",
+   "hi": "महाशिवरात्रि",
+   "pa": "",
+   "rule": "nishita",
+   "sunrise": "6:16 AM, Mar 6",
+   "tithi": {
+    "from_h": "12:04 PM",
+    "to_h": "1:46 PM, Mar 7",
+    "minutes": 1543,
+    "from_date": "2027-03-06",
+    "to_date": "2027-03-07"
+   },
+   "muhurat": [
+    {
+     "from_h": "11:42 PM",
+     "to_h": "12:32 AM, Mar 7",
+     "minutes": 49,
+     "from_date": "2027-03-06",
+     "to_date": "2027-03-07"
+    }
+   ]
+  },
+  {
+   "id": "holika-dahan-2027",
+   "slug": "holika-dahan",
+   "date": "2027-03-21",
+   "date_india": "2027-03-21",
+   "tradition": "hindu",
+   "en": "Holika Dahan",
+   "hi": "होलिका दहन",
+   "pa": "",
+   "rule": "holika",
+   "sunrise": "6:01 AM, Mar 21",
+   "tithi": {
+    "from_h": "6:22 PM",
+    "to_h": "4:13 PM, Mar 22",
+    "minutes": 1312,
+    "from_date": "2027-03-21",
+    "to_date": "2027-03-22"
+   },
+   "muhurat": [
+    {
+     "from_h": "6:07 PM",
+     "to_h": "8:31 PM",
+     "minutes": 144,
+     "from_date": "2027-03-21",
+     "to_date": "2027-03-21"
+    }
+   ]
+  },
+  {
+   "id": "holi-2027",
+   "slug": "holi",
+   "date": "2027-03-22",
+   "date_india": "2027-03-22",
+   "tradition": "hindu",
+   "en": "Holi",
+   "hi": "होली",
+   "pa": "",
+   "rule": "after"
+  },
+  {
+   "id": "hola-mohalla-2027",
+   "slug": "hola-mohalla",
+   "date": "2027-03-23",
+   "date_india": "2027-03-23",
+   "tradition": "sikh",
+   "en": "Hola Mohalla",
+   "hi": "होला मोहल्ला",
+   "pa": "ਹੋਲਾ ਮਹੱਲਾ",
+   "rule": "after"
+  },
+  {
+   "id": "chaitra-navratri-2027",
+   "slug": "chaitra-navratri",
+   "date": "2027-04-07",
+   "date_india": "2027-04-07",
+   "tradition": "hindu",
+   "en": "Chaitra Navratri · Ugadi · Gudi Padwa",
+   "hi": "चैत्र नवरात्रि · नव संवत्सर",
+   "pa": "",
+   "rule": "ghatasthapana",
+   "sunrise": "5:42 AM, Apr 7",
+   "tithi": {
+    "from_h": "5:21 AM",
+    "to_h": "4:29 AM, Apr 8",
+    "minutes": 1388,
+    "from_date": "2027-04-07",
+    "to_date": "2027-04-08"
+   },
+   "muhurat": [
+    {
+     "from_h": "5:42 AM",
+     "to_h": "9:53 AM",
+     "minutes": 251,
+     "from_date": "2027-04-07",
+     "to_date": "2027-04-07"
+    }
+   ]
+  },
+  {
+   "id": "gangaur-2027",
+   "slug": "gangaur",
+   "date": "2027-04-09",
+   "date_india": "2027-04-09",
+   "tradition": "hindu",
+   "en": "Gangaur",
+   "hi": "गणगौर",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:40 AM, Apr 9",
+   "tithi": {
+    "from_h": "3:10 AM",
+    "to_h": "1:32 AM, Apr 10",
+    "minutes": 1342,
+    "from_date": "2027-04-09",
+    "to_date": "2027-04-10"
+   }
+  },
+  {
+   "id": "vaisakhi-2027",
+   "slug": "vaisakhi",
+   "date": "2027-04-14",
+   "date_india": "2027-04-14",
+   "tradition": "sikh",
+   "en": "Vaisakhi · Khalsa Sajna Divas",
+   "hi": "बैसाखी",
+   "pa": "ਵਿਸਾਖੀ · ਖਾਲਸਾ ਸਾਜਨਾ ਦਿਵਸ",
+   "rule": "solar",
+   "sankranti": "3:28 PM, Apr 14",
+   "punya": {
+    "from_h": "3:28 PM",
+    "to_h": "6:18 PM",
+    "minutes": 170,
+    "from_date": "2027-04-14",
+    "to_date": "2027-04-14"
+   }
+  },
+  {
+   "id": "vishu-2027",
+   "slug": "vishu",
+   "date": "2027-04-14",
+   "date_india": "2027-04-14",
+   "tradition": "hindu",
+   "en": "Vishu · Puthandu · Rongali Bihu",
+   "hi": "विषु · पुथंडु · बोहाग बिहू",
+   "pa": "",
+   "rule": "solar",
+   "sankranti": "3:28 PM, Apr 14",
+   "punya": {
+    "from_h": "3:28 PM",
+    "to_h": "6:18 PM",
+    "minutes": 170,
+    "from_date": "2027-04-14",
+    "to_date": "2027-04-14"
+   }
+  },
+  {
+   "id": "rama-navami-2027",
+   "slug": "rama-navami",
+   "date": "2027-04-15",
+   "date_india": "2027-04-15",
+   "tradition": "hindu",
+   "en": "Rama Navami",
+   "hi": "राम नवमी",
+   "pa": "",
+   "rule": "madhyahna",
+   "sunrise": "5:34 AM, Apr 15",
+   "tithi": {
+    "from_h": "3:24 PM",
+    "to_h": "1:21 PM, Apr 15",
+    "minutes": 1317,
+    "from_date": "2027-04-14",
+    "to_date": "2027-04-15"
+   },
+   "muhurat": [
+    {
+     "from_h": "10:40 AM",
+     "to_h": "1:13 PM",
+     "minutes": 153,
+     "from_date": "2027-04-15",
+     "to_date": "2027-04-15"
+    }
+   ]
+  },
+  {
+   "id": "mahavir-jayanti-2027",
+   "slug": "mahavir-jayanti",
+   "date": "2027-04-19",
+   "date_india": "2027-04-19",
+   "tradition": "jain",
+   "en": "Mahavir Jayanti · Janma Kalyanak",
+   "hi": "महावीर जयंती · जन्म कल्याणक",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:30 AM, Apr 19",
+   "tithi": {
+    "from_h": "7:42 AM",
+    "to_h": "6:08 AM, Apr 19",
+    "minutes": 1346,
+    "from_date": "2027-04-18",
+    "to_date": "2027-04-19"
+   }
+  },
+  {
+   "id": "hanuman-jayanti-2027",
+   "slug": "hanuman-jayanti",
+   "date": "2027-04-20",
+   "date_india": "2027-04-20",
+   "tradition": "hindu",
+   "en": "Hanuman Jayanti",
+   "hi": "हनुमान जयंती",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:29 AM, Apr 20",
+   "tithi": {
+    "from_h": "4:51 AM",
+    "to_h": "3:57 AM, Apr 21",
+    "minutes": 1385,
+    "from_date": "2027-04-20",
+    "to_date": "2027-04-21"
+   }
+  },
+  {
+   "id": "akshaya-tritiya-2027",
+   "slug": "akshaya-tritiya",
+   "date": "2027-05-09",
+   "date_india": "2027-05-09",
+   "tradition": "hindu",
+   "en": "Akshaya Tritiya",
+   "hi": "अक्षय तृतीया",
+   "pa": "",
+   "rule": "purvahna",
+   "sunrise": "5:14 AM, May 9",
+   "tithi": {
+    "from_h": "11:43 AM",
+    "to_h": "9:03 AM, May 9",
+    "minutes": 1280,
+    "from_date": "2027-05-08",
+    "to_date": "2027-05-09"
+   },
+   "muhurat": [
+    {
+     "from_h": "5:14 AM",
+     "to_h": "9:03 AM",
+     "minutes": 230,
+     "from_date": "2027-05-09",
+     "to_date": "2027-05-09"
+    }
+   ]
+  },
+  {
+   "id": "buddha-purnima-2027",
+   "slug": "buddha-purnima",
+   "date": "2027-05-20",
+   "date_india": "2027-05-20",
+   "tradition": "buddhist",
+   "en": "Buddha Purnima",
+   "hi": "बुद्ध पूर्णिमा",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:08 AM, May 20",
+   "tithi": {
+    "from_h": "4:03 PM",
+    "to_h": "4:29 PM, May 20",
+    "minutes": 1466,
+    "from_date": "2027-05-19",
+    "to_date": "2027-05-20"
+   }
+  },
+  {
+   "id": "guru-arjan-dev-shaheedi-2027",
+   "slug": "guru-arjan-dev-shaheedi",
+   "date": "2027-06-08",
+   "date_india": "2027-06-08",
+   "tradition": "sikh",
+   "en": "Guru Arjan Dev Shaheedi Divas",
+   "hi": "गुरु अर्जन देव शहीदी दिवस",
+   "pa": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ ਦਾ ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ",
+   "rule": "udaya",
+   "sunrise": "5:03 AM, Jun 8",
+   "tithi": {
+    "from_h": "3:26 PM",
+    "to_h": "12:22 PM, Jun 8",
+    "minutes": 1256,
+    "from_date": "2027-06-07",
+    "to_date": "2027-06-08"
+   }
+  },
+  {
+   "id": "ganga-dussehra-2027",
+   "slug": "ganga-dussehra",
+   "date": "2027-06-13",
+   "date_india": "2027-06-13",
+   "tradition": "hindu",
+   "en": "Ganga Dussehra",
+   "hi": "गंगा दशहरा",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:03 AM, Jun 13",
+   "tithi": {
+    "from_h": "2:44 AM",
+    "to_h": "2:12 AM, Jun 14",
+    "minutes": 1408,
+    "from_date": "2027-06-13",
+    "to_date": "2027-06-14"
+   }
+  },
+  {
+   "id": "nirjala-ekadashi-2027",
+   "slug": "nirjala-ekadashi",
+   "date": "2027-06-14",
+   "date_india": "2027-06-14",
+   "tradition": "hindu",
+   "en": "Nirjala Ekadashi",
+   "hi": "निर्जला एकादशी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:03 AM, Jun 14",
+   "tithi": {
+    "from_h": "2:12 AM",
+    "to_h": "2:08 AM, Jun 15",
+    "minutes": 1436,
+    "from_date": "2027-06-14",
+    "to_date": "2027-06-15"
+   }
+  },
+  {
+   "id": "rath-yatra-2027",
+   "slug": "rath-yatra",
+   "date": "2027-07-05",
+   "date_india": "2027-07-05",
+   "tradition": "hindu",
+   "en": "Jagannath Rath Yatra",
+   "hi": "जगन्नाथ रथ यात्रा",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:08 AM, Jul 5",
+   "tithi": {
+    "from_h": "4:51 AM",
+    "to_h": "1:14 AM, Jul 6",
+    "minutes": 1223,
+    "from_date": "2027-07-05",
+    "to_date": "2027-07-06"
+   }
+  },
+  {
+   "id": "asalha-puja-2027",
+   "slug": "asalha-puja",
+   "date": "2027-07-18",
+   "date_india": "2027-07-18",
+   "tradition": "buddhist",
+   "en": "Asalha Puja · Dhamma Day",
+   "hi": "आषाढ़ पूर्णिमा · धम्मचक्र प्रवर्तन दिवस",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:14 AM, Jul 18",
+   "tithi": {
+    "from_h": "6:48 PM",
+    "to_h": "9:14 PM, Jul 18",
+    "minutes": 1586,
+    "from_date": "2027-07-17",
+    "to_date": "2027-07-18"
+   }
+  },
+  {
+   "id": "guru-purnima-2027",
+   "slug": "guru-purnima",
+   "date": "2027-07-18",
+   "date_india": "2027-07-18",
+   "tradition": "hindu",
+   "en": "Guru Purnima",
+   "hi": "गुरु पूर्णिमा",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:14 AM, Jul 18",
+   "tithi": {
+    "from_h": "6:48 PM",
+    "to_h": "9:14 PM, Jul 18",
+    "minutes": 1586,
+    "from_date": "2027-07-17",
+    "to_date": "2027-07-18"
+   }
+  },
+  {
+   "id": "hariyali-teej-2027",
+   "slug": "hariyali-teej",
+   "date": "2027-08-04",
+   "date_india": "2027-08-04",
+   "tradition": "hindu",
+   "en": "Hariyali Teej",
+   "hi": "हरियाली तीज",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:23 AM, Aug 4",
+   "tithi": {
+    "from_h": "8:20 AM",
+    "to_h": "5:09 AM, Aug 5",
+    "minutes": 1249,
+    "from_date": "2027-08-04",
+    "to_date": "2027-08-05"
+   }
+  },
+  {
+   "id": "nag-panchami-2027",
+   "slug": "nag-panchami",
+   "date": "2027-08-06",
+   "date_india": "2027-08-06",
+   "tradition": "hindu",
+   "en": "Nag Panchami",
+   "hi": "नाग पंचमी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:24 AM, Aug 6",
+   "tithi": {
+    "from_h": "2:27 AM",
+    "to_h": "12:23 AM, Aug 7",
+    "minutes": 1315,
+    "from_date": "2027-08-06",
+    "to_date": "2027-08-07"
+   }
+  },
+  {
+   "id": "raksha-bandhan-2027",
+   "slug": "raksha-bandhan",
+   "date": "2027-08-17",
+   "date_india": "2027-08-17",
+   "tradition": "hindu",
+   "en": "Raksha Bandhan",
+   "hi": "रक्षा बंधन",
+   "pa": "",
+   "rule": "rakhi",
+   "sunrise": "5:29 AM, Aug 17",
+   "tithi": {
+    "from_h": "10:29 AM",
+    "to_h": "12:58 PM, Aug 17",
+    "minutes": 1589,
+    "from_date": "2027-08-16",
+    "to_date": "2027-08-17"
+   },
+   "muhurat": [
+    {
+     "from_h": "5:29 AM",
+     "to_h": "12:58 PM",
+     "minutes": 449,
+     "from_date": "2027-08-17",
+     "to_date": "2027-08-17"
+    }
+   ]
+  },
+  {
+   "id": "janmashtami-2027",
+   "slug": "janmashtami",
+   "date": "2027-08-24",
+   "date_india": "2027-08-24",
+   "tradition": "hindu",
+   "en": "Krishna Janmashtami",
+   "hi": "कृष्ण जन्माष्टमी",
+   "pa": "",
+   "rule": "nishita",
+   "sunrise": "5:33 AM, Aug 24",
+   "tithi": {
+    "from_h": "8:25 PM",
+    "to_h": "7:20 PM, Aug 25",
+    "minutes": 1375,
+    "from_date": "2027-08-24",
+    "to_date": "2027-08-25"
+   },
+   "muhurat": [
+    {
+     "from_h": "11:36 PM",
+     "to_h": "12:21 AM, Aug 25",
+     "minutes": 45,
+     "from_date": "2027-08-24",
+     "to_date": "2027-08-25"
+    }
+   ]
+  },
+  {
+   "id": "paryushan-2027",
+   "slug": "paryushan",
+   "date": "2027-08-28",
+   "date_india": "2027-08-28",
+   "tradition": "jain",
+   "en": "Paryushan Parva begins (Shvetambara)",
+   "hi": "पर्युषण पर्व आरंभ (श्वेतांबर)",
+   "pa": "",
+   "rule": "after"
+  },
+  {
+   "id": "ganesh-chaturthi-2027",
+   "slug": "ganesh-chaturthi",
+   "date": "2027-09-04",
+   "date_india": "2027-09-04",
+   "tradition": "hindu",
+   "en": "Ganesh Chaturthi",
+   "hi": "गणेश चतुर्थी",
+   "pa": "",
+   "rule": "madhyahna",
+   "sunrise": "5:38 AM, Sep 4",
+   "tithi": {
+    "from_h": "2:19 PM",
+    "to_h": "12:26 PM, Sep 4",
+    "minutes": 1327,
+    "from_date": "2027-09-03",
+    "to_date": "2027-09-04"
+   },
+   "muhurat": [
+    {
+     "from_h": "10:40 AM",
+     "to_h": "12:26 PM",
+     "minutes": 106,
+     "from_date": "2027-09-04",
+     "to_date": "2027-09-04"
+    }
+   ]
+  },
+  {
+   "id": "samvatsari-2027",
+   "slug": "samvatsari",
+   "date": "2027-09-04",
+   "date_india": "2027-09-04",
+   "tradition": "jain",
+   "en": "Samvatsari · Kshamapana",
+   "hi": "संवत्सरी · क्षमापना",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:38 AM, Sep 4",
+   "tithi": {
+    "from_h": "2:19 PM",
+    "to_h": "12:26 PM, Sep 4",
+    "minutes": 1327,
+    "from_date": "2027-09-03",
+    "to_date": "2027-09-04"
+   }
+  },
+  {
+   "id": "das-lakshana-2027",
+   "slug": "das-lakshana",
+   "date": "2027-09-05",
+   "date_india": "2027-09-05",
+   "tradition": "jain",
+   "en": "Das Lakshana Parva begins (Digambar)",
+   "hi": "दसलक्षण पर्व आरंभ (दिगंबर)",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:38 AM, Sep 5",
+   "tithi": {
+    "from_h": "12:26 PM",
+    "to_h": "11:17 AM, Sep 5",
+    "minutes": 1372,
+    "from_date": "2027-09-04",
+    "to_date": "2027-09-05"
+   }
+  },
+  {
+   "id": "onam-2027",
+   "slug": "onam",
+   "date": "2027-09-12",
+   "date_india": "2027-09-12",
+   "tradition": "hindu",
+   "en": "Onam · Thiruvonam",
+   "hi": "ओणम",
+   "pa": "",
+   "rule": "onam",
+   "sunrise": "5:41 AM, Sep 12",
+   "tithi": {
+    "from_h": "2:58 AM",
+    "to_h": "6:05 AM, Sep 13",
+    "minutes": 1626,
+    "from_date": "2027-09-12",
+    "to_date": "2027-09-13"
+   }
+  },
+  {
+   "id": "anant-chaturdashi-2027",
+   "slug": "anant-chaturdashi",
+   "date": "2027-09-14",
+   "date_india": "2027-09-14",
+   "tradition": "hindu",
+   "en": "Anant Chaturdashi",
+   "hi": "अनंत चतुर्दशी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:42 AM, Sep 14",
+   "tithi": {
+    "from_h": "12:40 AM",
+    "to_h": "2:48 AM, Sep 15",
+    "minutes": 1568,
+    "from_date": "2027-09-14",
+    "to_date": "2027-09-15"
+   }
+  },
+  {
+   "id": "kshamavani-2027",
+   "slug": "kshamavani",
+   "date": "2027-09-16",
+   "date_india": "2027-09-16",
+   "tradition": "jain",
+   "en": "Kshamavani (Digambar)",
+   "hi": "क्षमावाणी (दिगंबर)",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:43 AM, Sep 16",
+   "tithi": {
+    "from_h": "4:33 AM",
+    "to_h": "5:52 AM, Sep 17",
+    "minutes": 1519,
+    "from_date": "2027-09-16",
+    "to_date": "2027-09-17"
+   }
+  },
+  {
+   "id": "pitru-paksha-2027",
+   "slug": "pitru-paksha",
+   "date": "2027-09-16",
+   "date_india": "2027-09-16",
+   "tradition": "hindu",
+   "en": "Pitru Paksha begins",
+   "hi": "पितृ पक्ष आरंभ",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:43 AM, Sep 16",
+   "tithi": {
+    "from_h": "4:33 AM",
+    "to_h": "5:52 AM, Sep 17",
+    "minutes": 1519,
+    "from_date": "2027-09-16",
+    "to_date": "2027-09-17"
+   }
+  },
+  {
+   "id": "mahalaya-amavasya-2027",
+   "slug": "mahalaya-amavasya",
+   "date": "2027-09-29",
+   "date_india": "2027-09-29",
+   "tradition": "hindu",
+   "en": "Mahalaya · Sarva Pitru Amavasya",
+   "hi": "सर्व पितृ अमावस्या",
+   "pa": "",
+   "rule": "aparahna",
+   "sunrise": "5:48 AM, Sep 29",
+   "tithi": {
+    "from_h": "10:55 AM",
+    "to_h": "8:06 AM, Sep 30",
+    "minutes": 1270,
+    "from_date": "2027-09-29",
+    "to_date": "2027-09-30"
+   },
+   "muhurat": [
+    {
+     "from_h": "12:58 PM",
+     "to_h": "3:21 PM",
+     "minutes": 143,
+     "from_date": "2027-09-29",
+     "to_date": "2027-09-29"
+    }
+   ]
+  },
+  {
+   "id": "navratri-2027",
+   "slug": "navratri",
+   "date": "2027-09-30",
+   "date_india": "2027-09-30",
+   "tradition": "hindu",
+   "en": "Sharad Navratri",
+   "hi": "शारदीय नवरात्रि",
+   "pa": "",
+   "rule": "ghatasthapana",
+   "sunrise": "5:49 AM, Sep 30",
+   "tithi": {
+    "from_h": "8:06 AM",
+    "to_h": "5:35 AM, Oct 1",
+    "minutes": 1290,
+    "from_date": "2027-09-30",
+    "to_date": "2027-10-01"
+   },
+   "muhurat": [
+    {
+     "from_h": "8:06 AM",
+     "to_h": "9:47 AM",
+     "minutes": 101,
+     "from_date": "2027-09-30",
+     "to_date": "2027-09-30"
+    }
+   ]
+  },
+  {
+   "id": "durga-puja-2027",
+   "slug": "durga-puja",
+   "date": "2027-10-05",
+   "date_india": "2027-10-05",
+   "tradition": "hindu",
+   "en": "Durga Puja · Maha Shashthi",
+   "hi": "दुर्गा पूजा · महाषष्ठी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:51 AM, Oct 5",
+   "tithi": {
+    "from_h": "1:36 AM",
+    "to_h": "2:33 AM, Oct 6",
+    "minutes": 1497,
+    "from_date": "2027-10-05",
+    "to_date": "2027-10-06"
+   }
+  },
+  {
+   "id": "durga-ashtami-2027",
+   "slug": "durga-ashtami",
+   "date": "2027-10-07",
+   "date_india": "2027-10-07",
+   "tradition": "hindu",
+   "en": "Durga Ashtami",
+   "hi": "दुर्गा अष्टमी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:52 AM, Oct 7",
+   "tithi": {
+    "from_h": "4:13 AM",
+    "to_h": "6:28 AM, Oct 8",
+    "minutes": 1574,
+    "from_date": "2027-10-07",
+    "to_date": "2027-10-08"
+   }
+  },
+  {
+   "id": "dussehra-2027",
+   "slug": "dussehra",
+   "date": "2027-10-09",
+   "date_india": "2027-10-09",
+   "tradition": "hindu",
+   "en": "Dussehra · Vijayadashami",
+   "hi": "दशहरा · विजयादशमी",
+   "pa": "",
+   "rule": "aparahna",
+   "sunrise": "5:53 AM, Oct 9",
+   "tithi": {
+    "from_h": "9:02 AM",
+    "to_h": "11:41 AM, Oct 10",
+    "minutes": 1599,
+    "from_date": "2027-10-09",
+    "to_date": "2027-10-10"
+   },
+   "muhurat": [
+    {
+     "from_h": "12:53 PM",
+     "to_h": "3:13 PM",
+     "minutes": 140,
+     "from_date": "2027-10-09",
+     "to_date": "2027-10-09"
+    }
+   ]
+  },
+  {
+   "id": "maha-navami-2027",
+   "slug": "maha-navami",
+   "date": "2027-10-09",
+   "date_india": "2027-10-09",
+   "tradition": "hindu",
+   "en": "Maha Navami",
+   "hi": "महानवमी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "5:53 AM, Oct 9",
+   "tithi": {
+    "from_h": "6:28 AM",
+    "to_h": "9:02 AM, Oct 9",
+    "minutes": 1594,
+    "from_date": "2027-10-08",
+    "to_date": "2027-10-09"
+   }
+  },
+  {
+   "id": "sharad-purnima-2027",
+   "slug": "sharad-purnima",
+   "date": "2027-10-15",
+   "date_india": "2027-10-14",
+   "tradition": "hindu",
+   "en": "Sharad Purnima",
+   "hi": "शरद पूर्णिमा",
+   "pa": "",
+   "rule": "pradosh",
+   "sunrise": "5:56 AM, Oct 15",
+   "tithi": {
+    "from_h": "6:49 PM",
+    "to_h": "7:16 PM, Oct 15",
+    "minutes": 1467,
+    "from_date": "2027-10-14",
+    "to_date": "2027-10-15"
+   },
+   "muhurat": [
+    {
+     "from_h": "5:27 PM",
+     "to_h": "7:16 PM",
+     "minutes": 109,
+     "from_date": "2027-10-15",
+     "to_date": "2027-10-15"
+    }
+   ]
+  },
+  {
+   "id": "karva-chauth-2027",
+   "slug": "karva-chauth",
+   "date": "2027-10-18",
+   "date_india": "2027-10-18",
+   "tradition": "hindu",
+   "en": "Karva Chauth",
+   "hi": "करवा चौथ",
+   "pa": "",
+   "rule": "karva",
+   "moonrise": "7:10 PM"
+  },
+  {
+   "id": "ahoi-ashtami-2027",
+   "slug": "ahoi-ashtami",
+   "date": "2027-10-22",
+   "date_india": "2027-10-22",
+   "tradition": "hindu",
+   "en": "Ahoi Ashtami",
+   "hi": "अहोई अष्टमी",
+   "pa": "",
+   "rule": "pradosh",
+   "sunrise": "6:00 AM, Oct 22",
+   "tithi": {
+    "from_h": "11:56 AM",
+    "to_h": "9:59 AM, Oct 23",
+    "minutes": 1323,
+    "from_date": "2027-10-22",
+    "to_date": "2027-10-23"
+   },
+   "muhurat": [
+    {
+     "from_h": "5:21 PM",
+     "to_h": "7:45 PM",
+     "minutes": 144,
+     "from_date": "2027-10-22",
+     "to_date": "2027-10-22"
+    }
+   ]
+  },
+  {
+   "id": "dhanteras-2027",
+   "slug": "dhanteras",
+   "date": "2027-10-27",
+   "date_india": "2027-10-27",
+   "tradition": "hindu",
+   "en": "Dhanteras",
+   "hi": "धनतेरस",
+   "pa": "",
+   "rule": "lakshmi",
+   "muhurat": [
+    {
+     "from": "18:21",
+     "to": "19:40",
+     "from_h": "6:21 PM",
+     "to_h": "7:40 PM",
+     "minutes": 79
+    }
+   ],
+   "pradosh": {
+    "from": "17:16",
+    "to": "19:40",
+    "from_h": "5:16 PM",
+    "to_h": "7:40 PM",
+    "minutes": 144
+   },
+   "sunset": "5:16 PM"
+  },
+  {
+   "id": "kali-puja-2027",
+   "slug": "kali-puja",
+   "date": "2027-10-28",
+   "date_india": "2027-10-28",
+   "tradition": "hindu",
+   "en": "Kali Puja",
+   "hi": "काली पूजा",
+   "pa": "",
+   "rule": "nishita",
+   "sunrise": "6:04 AM, Oct 28",
+   "tithi": {
+    "from_h": "8:48 PM",
+    "to_h": "7:06 PM, Oct 29",
+    "minutes": 1338,
+    "from_date": "2027-10-28",
+    "to_date": "2027-10-29"
+   },
+   "muhurat": [
+    {
+     "from_h": "11:14 PM",
+     "to_h": "12:06 AM, Oct 29",
+     "minutes": 51,
+     "from_date": "2027-10-28",
+     "to_date": "2027-10-29"
+    }
+   ]
+  },
+  {
+   "id": "narak-chaturdashi-2027",
+   "slug": "narak-chaturdashi",
+   "date": "2027-10-28",
+   "date_india": "2027-10-28",
+   "tradition": "hindu",
+   "en": "Narak Chaturdashi · Chhoti Diwali",
+   "hi": "नरक चतुर्दशी · छोटी दिवाली",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:04 AM, Oct 28",
+   "tithi": {
+    "from_h": "10:50 PM",
+    "to_h": "8:48 PM, Oct 28",
+    "minutes": 1318,
+    "from_date": "2027-10-27",
+    "to_date": "2027-10-28"
+   }
+  },
+  {
+   "id": "bandi-chhor-divas-2027",
+   "slug": "bandi-chhor-divas",
+   "date": "2027-10-29",
+   "date_india": "2027-10-29",
+   "tradition": "sikh",
+   "en": "Bandi Chhor Divas",
+   "hi": "बंदी छोड़ दिवस",
+   "pa": "ਬੰਦੀ ਛੋੜ ਦਿਵਸ",
+   "rule": "same-as",
+   "muhurat": [
+    {
+     "from": "18:14",
+     "to": "19:07",
+     "from_h": "6:14 PM",
+     "to_h": "7:07 PM",
+     "minutes": 53
+    }
+   ],
+   "pradosh": {
+    "from": "17:15",
+    "to": "19:39",
+    "from_h": "5:15 PM",
+    "to_h": "7:39 PM",
+    "minutes": 144
+   },
+   "sunset": "5:15 PM"
+  },
+  {
+   "id": "diwali-2027",
+   "slug": "diwali",
+   "date": "2027-10-29",
+   "date_india": "2027-10-29",
+   "tradition": "hindu",
+   "en": "Diwali · Lakshmi Puja",
+   "hi": "दिवाली · लक्ष्मी पूजा",
+   "pa": "",
+   "rule": "lakshmi",
+   "muhurat": [
+    {
+     "from": "18:14",
+     "to": "19:07",
+     "from_h": "6:14 PM",
+     "to_h": "7:07 PM",
+     "minutes": 53
+    }
+   ],
+   "pradosh": {
+    "from": "17:15",
+    "to": "19:39",
+    "from_h": "5:15 PM",
+    "to_h": "7:39 PM",
+    "minutes": 144
+   },
+   "sunset": "5:15 PM"
+  },
+  {
+   "id": "mahavir-nirvan-2027",
+   "slug": "mahavir-nirvan",
+   "date": "2027-10-29",
+   "date_india": "2027-10-29",
+   "tradition": "jain",
+   "en": "Mahavir Nirvan Divas · Jain Diwali",
+   "hi": "महावीर निर्वाण दिवस",
+   "pa": "",
+   "rule": "same-as",
+   "muhurat": [
+    {
+     "from": "18:14",
+     "to": "19:07",
+     "from_h": "6:14 PM",
+     "to_h": "7:07 PM",
+     "minutes": 53
+    }
+   ],
+   "pradosh": {
+    "from": "17:15",
+    "to": "19:39",
+    "from_h": "5:15 PM",
+    "to_h": "7:39 PM",
+    "minutes": 144
+   },
+   "sunset": "5:15 PM"
+  },
+  {
+   "id": "govardhan-puja-2027",
+   "slug": "govardhan-puja",
+   "date": "2027-10-30",
+   "date_india": "2027-10-30",
+   "tradition": "hindu",
+   "en": "Govardhan Puja · Annakut",
+   "hi": "गोवर्धन पूजा · अन्नकूट",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:05 AM, Oct 30",
+   "tithi": {
+    "from_h": "7:06 PM",
+    "to_h": "5:52 PM, Oct 30",
+    "minutes": 1366,
+    "from_date": "2027-10-29",
+    "to_date": "2027-10-30"
+   }
+  },
+  {
+   "id": "bhai-dooj-2027",
+   "slug": "bhai-dooj",
+   "date": "2027-10-31",
+   "date_india": "2027-10-31",
+   "tradition": "hindu",
+   "en": "Bhai Dooj",
+   "hi": "भाई दूज",
+   "pa": "",
+   "rule": "aparahna",
+   "sunrise": "6:06 AM, Oct 31",
+   "tithi": {
+    "from_h": "5:52 PM",
+    "to_h": "5:13 PM, Oct 31",
+    "minutes": 1401,
+    "from_date": "2027-10-30",
+    "to_date": "2027-10-31"
+   },
+   "muhurat": [
+    {
+     "from_h": "12:46 PM",
+     "to_h": "3:00 PM",
+     "minutes": 134,
+     "from_date": "2027-10-31",
+     "to_date": "2027-10-31"
+    }
+   ]
+  },
+  {
+   "id": "gyan-panchami-2027",
+   "slug": "gyan-panchami",
+   "date": "2027-11-03",
+   "date_india": "2027-11-03",
+   "tradition": "jain",
+   "en": "Gyan Panchami · Saubhagya Panchami",
+   "hi": "ज्ञान पंचमी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:08 AM, Nov 3",
+   "tithi": {
+    "from_h": "6:02 PM",
+    "to_h": "7:32 PM, Nov 3",
+    "minutes": 1530,
+    "from_date": "2027-11-02",
+    "to_date": "2027-11-03"
+   }
+  },
+  {
+   "id": "chhath-puja-2027",
+   "slug": "chhath-puja",
+   "date": "2027-11-04",
+   "date_india": "2027-11-04",
+   "tradition": "hindu",
+   "en": "Chhath Puja",
+   "hi": "छठ पूजा",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:08 AM, Nov 4",
+   "tithi": {
+    "from_h": "7:32 PM",
+    "to_h": "9:38 PM, Nov 4",
+    "minutes": 1566,
+    "from_date": "2027-11-03",
+    "to_date": "2027-11-04"
+   }
+  },
+  {
+   "id": "dev-uthani-ekadashi-2027",
+   "slug": "dev-uthani-ekadashi",
+   "date": "2027-11-10",
+   "date_india": "2027-11-10",
+   "tradition": "hindu",
+   "en": "Dev Uthani Ekadashi",
+   "hi": "देवउठनी एकादशी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:12 AM, Nov 10",
+   "tithi": {
+    "from_h": "7:35 AM",
+    "to_h": "9:11 AM, Nov 10",
+    "minutes": 1537,
+    "from_date": "2027-11-09",
+    "to_date": "2027-11-10"
+   }
+  },
+  {
+   "id": "kartik-purnima-2027",
+   "slug": "kartik-purnima",
+   "date": "2027-11-13",
+   "date_india": "2027-11-13",
+   "tradition": "hindu",
+   "en": "Kartik Purnima · Dev Deepawali",
+   "hi": "कार्तिक पूर्णिमा · देव दीपावली",
+   "pa": "",
+   "rule": "pradosh",
+   "sunrise": "6:15 AM, Nov 13",
+   "tithi": {
+    "from_h": "9:55 AM",
+    "to_h": "8:55 AM, Nov 14",
+    "minutes": 1380,
+    "from_date": "2027-11-13",
+    "to_date": "2027-11-14"
+   },
+   "muhurat": [
+    {
+     "from_h": "5:05 PM",
+     "to_h": "7:29 PM",
+     "minutes": 144,
+     "from_date": "2027-11-13",
+     "to_date": "2027-11-13"
+    }
+   ]
+  },
+  {
+   "id": "guru-nanak-gurpurab-2027",
+   "slug": "guru-nanak-gurpurab",
+   "date": "2027-11-14",
+   "date_india": "2027-11-14",
+   "tradition": "sikh",
+   "en": "Guru Nanak Gurpurab · Prakash Purab",
+   "hi": "गुरु नानक जयंती · प्रकाश पर्व",
+   "pa": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ ਦਾ ਪ੍ਰਕਾਸ਼ ਪੁਰਬ",
+   "rule": "udaya",
+   "sunrise": "6:15 AM, Nov 14",
+   "tithi": {
+    "from_h": "9:55 AM",
+    "to_h": "8:55 AM, Nov 14",
+    "minutes": 1380,
+    "from_date": "2027-11-13",
+    "to_date": "2027-11-14"
+   }
+  },
+  {
+   "id": "guru-tegh-bahadur-shaheedi-2027",
+   "slug": "guru-tegh-bahadur-shaheedi",
+   "date": "2027-12-03",
+   "date_india": "2027-12-03",
+   "tradition": "sikh",
+   "en": "Guru Tegh Bahadur Shaheedi Divas",
+   "hi": "गुरु तेग बहादुर शहीदी दिवस",
+   "pa": "ਗੁਰੂ ਤੇਗ ਬਹਾਦਰ ਜੀ ਦਾ ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ",
+   "rule": "udaya",
+   "sunrise": "6:30 AM, Dec 3",
+   "tithi": {
+    "from_h": "1:44 PM",
+    "to_h": "4:13 PM, Dec 3",
+    "minutes": 1590,
+    "from_date": "2027-12-02",
+    "to_date": "2027-12-03"
+   }
+  },
+  {
+   "id": "vivah-panchami-2027",
+   "slug": "vivah-panchami",
+   "date": "2027-12-03",
+   "date_india": "2027-12-03",
+   "tradition": "hindu",
+   "en": "Vivah Panchami",
+   "hi": "विवाह पंचमी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:30 AM, Dec 3",
+   "tithi": {
+    "from_h": "1:44 PM",
+    "to_h": "4:13 PM, Dec 3",
+    "minutes": 1590,
+    "from_date": "2027-12-02",
+    "to_date": "2027-12-03"
+   }
+  },
+  {
+   "id": "gita-jayanti-2027",
+   "slug": "gita-jayanti",
+   "date": "2027-12-09",
+   "date_india": "2027-12-09",
+   "tradition": "hindu",
+   "en": "Gita Jayanti · Mokshada Ekadashi",
+   "hi": "गीता जयंती · मोक्षदा एकादशी",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:34 AM, Dec 9",
+   "tithi": {
+    "from_h": "2:59 AM",
+    "to_h": "3:20 AM, Dec 10",
+    "minutes": 1461,
+    "from_date": "2027-12-09",
+    "to_date": "2027-12-10"
+   }
+  },
+  {
+   "id": "paush-dashami-2027",
+   "slug": "paush-dashami",
+   "date": "2027-12-22",
+   "date_india": "2027-12-22",
+   "tradition": "jain",
+   "en": "Paush Dashami · Parshvanath Janma Kalyanak",
+   "hi": "पौष दशमी · पार्श्वनाथ जन्म कल्याणक",
+   "pa": "",
+   "rule": "udaya",
+   "sunrise": "6:42 AM, Dec 22",
+   "tithi": {
+    "from_h": "12:35 AM",
+    "to_h": "11:41 PM",
+    "minutes": 1386,
+    "from_date": "2027-12-22",
+    "to_date": "2027-12-22"
+   }
+  }
+ ],
+ "gurughar": [
+  {
+   "d": "2026-10-10",
+   "k": "masya",
+   "en": "Masya",
+   "pa": "ਮੱਸਿਆ"
+  },
+  {
+   "d": "2026-10-17",
+   "k": "sangrand",
+   "en": "Sangrand · Katak",
+   "pa": "ਸੰਗਰਾਂਦ · ਕੱਤਕ",
+   "note": "Sun enters at 7:51 PM, Oct 17"
+  },
+  {
+   "d": "2026-10-26",
+   "k": "puranmashi",
+   "en": "Puranmashi",
+   "pa": "ਪੂਰਨਮਾਸ਼ੀ"
+  },
+  {
+   "d": "2026-10-27",
+   "k": "gurpurab",
+   "en": "Guru Ram Das Ji Prakash Purab",
+   "pa": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ ਦਾ ਪ੍ਰਕਾਸ਼ ਪੁਰਬ"
+  },
+  {
+   "d": "2026-11-03",
+   "k": "gurpurab",
+   "en": "Guru Har Rai Ji Joti Jot · Guru Har Krishan Ji Gurgaddi",
+   "pa": "ਗੁਰੂ ਹਰਿ ਰਾਇ ਜੀ ਜੋਤੀ ਜੋਤਿ · ਗੁਰੂ ਹਰਿ ਕ੍ਰਿਸ਼ਨ ਜੀ ਗੁਰਗੱਦੀ"
+  },
+  {
+   "d": "2026-11-08",
+   "k": "gurpurab",
+   "en": "Bandi Chhor Divas",
+   "pa": "ਬੰਦੀ ਛੋੜ ਦਿਵਸ"
+  },
+  {
+   "d": "2026-11-09",
+   "k": "masya",
+   "en": "Masya",
+   "pa": "ਮੱਸਿਆ"
+  },
+  {
+   "d": "2026-11-11",
+   "k": "gurpurab",
+   "en": "Guru Granth Sahib Ji Gurgaddi Divas",
+   "pa": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ ਗੁਰਗੱਦੀ ਦਿਵਸ"
+  },
+  {
+   "d": "2026-11-14",
+   "k": "gurpurab",
+   "en": "Guru Gobind Singh Ji Joti Jot",
+   "pa": "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ ਜੋਤੀ ਜੋਤਿ"
+  },
+  {
+   "d": "2026-11-15",
+   "k": "gurpurab",
+   "en": "Baba Deep Singh Ji Shaheedi Divas",
+   "pa": "ਬਾਬਾ ਦੀਪ ਸਿੰਘ ਜੀ ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ"
+  },
+  {
+   "d": "2026-11-16",
+   "k": "sangrand",
+   "en": "Sangrand · Maghar",
+   "pa": "ਸੰਗਰਾਂਦ · ਮੱਘਰ",
+   "note": "Sun enters at 7:43 PM, Nov 16"
+  },
+  {
+   "d": "2026-11-24",
+   "k": "puranmashi",
+   "en": "Puranmashi",
+   "pa": "ਪੂਰਨਮਾਸ਼ੀ"
+  },
+  {
+   "d": "2026-11-24",
+   "k": "gurpurab",
+   "en": "Guru Nanak Gurpurab · Prakash Purab",
+   "pa": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ ਦਾ ਪ੍ਰਕਾਸ਼ ਪੁਰਬ"
+  },
+  {
+   "d": "2026-12-08",
+   "k": "masya",
+   "en": "Masya",
+   "pa": "ਮੱਸਿਆ"
+  },
+  {
+   "d": "2026-12-14",
+   "k": "gurpurab",
+   "en": "Guru Tegh Bahadur Shaheedi Divas",
+   "pa": "ਗੁਰੂ ਤੇਗ ਬਹਾਦਰ ਜੀ ਦਾ ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ"
+  },
+  {
+   "d": "2026-12-16",
+   "k": "sangrand",
+   "en": "Sangrand · Poh",
+   "pa": "ਸੰਗਰਾਂਦ · ਪੋਹ",
+   "note": "Sun enters at 10:25 AM, Dec 16"
+  },
+  {
+   "d": "2026-12-23",
+   "k": "gurpurab",
+   "en": "Vadde Sahibzade Shaheedi (Chamkaur Sahib)",
+   "pa": "ਵੱਡੇ ਸਾਹਿਬਜ਼ਾਦਿਆਂ ਦਾ ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ",
+   "note": "SGPC date"
+  },
+  {
+   "d": "2026-12-24",
+   "k": "puranmashi",
+   "en": "Puranmashi",
+   "pa": "ਪੂਰਨਮਾਸ਼ੀ"
+  },
+  {
+   "d": "2026-12-28",
+   "k": "gurpurab",
+   "en": "Chhote Sahibzade and Mata Gujri Ji Shaheedi",
+   "pa": "ਛੋਟੇ ਸਾਹਿਬਜ਼ਾਦਿਆਂ ਤੇ ਮਾਤਾ ਗੁਜਰੀ ਜੀ ਦਾ ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ",
+   "note": "SGPC date"
+  },
+  {
+   "d": "2027-01-07",
+   "k": "masya",
+   "en": "Masya",
+   "pa": "ਮੱਸਿਆ"
+  },
+  {
+   "d": "2027-01-14",
+   "k": "sangrand",
+   "en": "Sangrand · Magh",
+   "pa": "ਸੰਗਰਾਂਦ · ਮਾਘ",
+   "note": "Sun enters at 9:10 PM, Jan 14"
+  },
+  {
+   "d": "2027-01-14",
+   "k": "gurpurab",
+   "en": "Lohri",
+   "pa": "ਲੋਹੜੀ"
+  },
+  {
+   "d": "2027-01-15",
+   "k": "gurpurab",
+   "en": "Guru Gobind Singh Prakash Purab",
+   "pa": "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ ਦਾ ਪ੍ਰਕਾਸ਼ ਪੁਰਬ"
+  },
+  {
+   "d": "2027-01-22",
+   "k": "puranmashi",
+   "en": "Puranmashi",
+   "pa": "ਪੂਰਨਮਾਸ਼ੀ"
+  },
+  {
+   "d": "2027-02-06",
+   "k": "masya",
+   "en": "Masya",
+   "pa": "ਮੱਸਿਆ"
+  },
+  {
+   "d": "2027-02-13",
+   "k": "sangrand",
+   "en": "Sangrand · Phagun",
+   "pa": "ਸੰਗਰਾਂਦ · ਫੱਗਣ",
+   "note": "Sun enters at 10:09 AM, Feb 13"
+  },
+  {
+   "d": "2027-02-20",
+   "k": "puranmashi",
+   "en": "Puranmashi",
+   "pa": "ਪੂਰਨਮਾਸ਼ੀ"
+  },
+  {
+   "d": "2027-02-20",
+   "k": "gurpurab",
+   "en": "Guru Ravidas Jayanti",
+   "pa": "ਗੁਰੂ ਰਵਿਦਾਸ ਜਯੰਤੀ"
+  },
+  {
+   "d": "2027-03-08",
+   "k": "masya",
+   "en": "Masya",
+   "pa": "ਮੱਸਿਆ"
+  },
+  {
+   "d": "2027-03-15",
+   "k": "sangrand",
+   "en": "Sangrand · Chet",
+   "pa": "ਸੰਗਰਾਂਦ · ਚੇਤ",
+   "note": "Sun enters at 7:00 AM, Mar 15"
+  },
+  {
+   "d": "2027-03-22",
+   "k": "puranmashi",
+   "en": "Puranmashi",
+   "pa": "ਪੂਰਨਮਾਸ਼ੀ"
+  },
+  {
+   "d": "2027-03-23",
+   "k": "gurpurab",
+   "en": "Hola Mohalla",
+   "pa": "ਹੋਲਾ ਮਹੱਲਾ"
+  },
+  {
+   "d": "2027-04-06",
+   "k": "masya",
+   "en": "Masya",
+   "pa": "ਮੱਸਿਆ"
+  },
+  {
+   "d": "2027-04-14",
+   "k": "sangrand",
+   "en": "Sangrand · Vaisakh",
+   "pa": "ਸੰਗਰਾਂਦ · ਵੈਸਾਖ",
+   "note": "Sun enters at 3:28 PM, Apr 14"
+  },
+  {
+   "d": "2027-04-14",
+   "k": "gurpurab",
+   "en": "Vaisakhi · Khalsa Sajna Divas",
+   "pa": "ਵਿਸਾਖੀ · ਖਾਲਸਾ ਸਾਜਨਾ ਦਿਵਸ"
+  },
+  {
+   "d": "2027-04-20",
+   "k": "puranmashi",
+   "en": "Puranmashi",
+   "pa": "ਪੂਰਨਮਾਸ਼ੀ"
+  },
+  {
+   "d": "2027-05-06",
+   "k": "masya",
+   "en": "Masya",
+   "pa": "ਮੱਸਿਆ"
+  },
+  {
+   "d": "2027-05-15",
+   "k": "sangrand",
+   "en": "Sangrand · Jeth",
+   "pa": "ਸੰਗਰਾਂਦ · ਜੇਠ",
+   "note": "Sun enters at 12:19 PM, May 15"
+  },
+  {
+   "d": "2027-05-20",
+   "k": "puranmashi",
+   "en": "Puranmashi",
+   "pa": "ਪੂਰਨਮਾਸ਼ੀ"
+  },
+  {
+   "d": "2027-06-04",
+   "k": "masya",
+   "en": "Masya",
+   "pa": "ਮੱਸਿਆ"
+  },
+  {
+   "d": "2027-06-08",
+   "k": "gurpurab",
+   "en": "Guru Arjan Dev Shaheedi Divas",
+   "pa": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ ਦਾ ਸ਼ਹੀਦੀ ਦਿਹਾੜਾ"
+  },
+  {
+   "d": "2027-06-15",
+   "k": "sangrand",
+   "en": "Sangrand · Harh",
+   "pa": "ਸੰਗਰਾਂਦ · ਹਾੜ੍ਹ",
+   "note": "Sun enters at 6:55 PM, Jun 15"
+  },
+  {
+   "d": "2027-06-18",
+   "k": "puranmashi",
+   "en": "Puranmashi",
+   "pa": "ਪੂਰਨਮਾਸ਼ੀ"
+  },
+  {
+   "d": "2027-07-04",
+   "k": "masya",
+   "en": "Masya",
+   "pa": "ਮੱਸਿਆ"
+  },
+  {
+   "d": "2027-07-17",
+   "k": "sangrand",
+   "en": "Sangrand · Sawan",
+   "pa": "ਸੰਗਰਾਂਦ · ਸਾਵਣ",
+   "note": "Sun enters at 5:48 AM, Jul 17"
+  },
+  {
+   "d": "2027-07-18",
+   "k": "puranmashi",
+   "en": "Puranmashi",
+   "pa": "ਪੂਰਨਮਾਸ਼ੀ"
+  },
+  {
+   "d": "2027-08-02",
+   "k": "masya",
+   "en": "Masya",
+   "pa": "ਮੱਸਿਆ"
+  },
+  {
+   "d": "2027-08-17",
+   "k": "sangrand",
+   "en": "Sangrand · Bhadon",
+   "pa": "ਸੰਗਰਾਂਦ · ਭਾਦੋਂ",
+   "note": "Sun enters at 2:13 PM, Aug 17"
+  },
+  {
+   "d": "2027-08-17",
+   "k": "puranmashi",
+   "en": "Puranmashi",
+   "pa": "ਪੂਰਨਮਾਸ਼ੀ"
+  },
+  {
+   "d": "2027-08-31",
+   "k": "masya",
+   "en": "Masya",
+   "pa": "ਮੱਸਿਆ"
+  },
+  {
+   "d": "2027-09-15",
+   "k": "puranmashi",
+   "en": "Puranmashi",
+   "pa": "ਪੂਰਨਮਾਸ਼ੀ"
+  },
+  {
+   "d": "2027-09-17",
+   "k": "sangrand",
+   "en": "Sangrand · Assu",
+   "pa": "ਸੰਗਰਾਂਦ · ਅੱਸੂ",
+   "note": "Sun enters at 2:10 PM, Sep 17"
+  },
+  {
+   "d": "2027-09-30",
+   "k": "masya",
+   "en": "Masya",
+   "pa": "ਮੱਸਿਆ"
+  },
+  {
+   "d": "2027-10-15",
+   "k": "puranmashi",
+   "en": "Puranmashi",
+   "pa": "ਪੂਰਨਮਾਸ਼ੀ"
+  },
+  {
+   "d": "2027-10-17",
+   "k": "gurpurab",
+   "en": "Guru Ram Das Ji Prakash Purab",
+   "pa": "ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ ਦਾ ਪ੍ਰਕਾਸ਼ ਪੁਰਬ"
+  },
+  {
+   "d": "2027-10-18",
+   "k": "sangrand",
+   "en": "Sangrand · Katak",
+   "pa": "ਸੰਗਰਾਂਦ · ਕੱਤਕ",
+   "note": "Sun enters at 2:08 AM, Oct 18"
+  },
+  {
+   "d": "2027-10-24",
+   "k": "gurpurab",
+   "en": "Guru Har Rai Ji Joti Jot · Guru Har Krishan Ji Gurgaddi",
+   "pa": "ਗੁਰੂ ਹਰਿ ਰਾਇ ਜੀ ਜੋਤੀ ਜੋਤਿ · ਗੁਰੂ ਹਰਿ ਕ੍ਰਿਸ਼ਨ ਜੀ ਗੁਰਗੱਦੀ"
+  },
+  {
+   "d": "2027-10-29",
+   "k": "masya",
+   "en": "Masya",
+   "pa": "ਮੱਸਿਆ"
+  },
+  {
+   "d": "2027-10-29",
+   "k": "gurpurab",
+   "en": "Bandi Chhor Divas",
+   "pa": "ਬੰਦੀ ਛੋੜ ਦਿਵਸ"
+  },
+  {
+   "d": "2027-10-31",
+   "k": "gurpurab",
+   "en": "Guru Granth Sahib Ji Gurgaddi Divas",
+   "pa": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ ਗੁਰਗੱਦੀ ਦਿਵਸ"
+  }
+ ]
+}
